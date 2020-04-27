@@ -1,0 +1,21 @@
+{
+    "name": "metzi",
+    "displayName": "Metzi",
+    "description": "A theme for vs code with not many colors but good constrast",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "A theme for vs code with not many colors but good constrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/metzi-color-theme.json"
+            }
+        ]
+    }
+}

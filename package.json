@@ -3,6 +3,12 @@
     "displayName": "Metzi",
     "description": "A theme for vs code with not many colors but good constrast",
     "version": "0.1.0",
+    "publisher": "quowtf",
+    "license": "SEE LICENSE IN LICENSE",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/quowtf/metzi.git"
+    },
     "engines": {
         "vscode": "^1.44.0"
     },

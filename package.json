@@ -18,7 +18,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "A theme for vs code with not many colors but good constrast",
+                "label": "Metzi",
                 "uiTheme": "vs-dark",
                 "path": "./themes/metzi-color-theme.json"
             }

@@ -4,6 +4,12 @@ All notable changes to the Metzi theme will be documented in this file.
 
 ## Unreleased
 
+## 0.3.0 - 18-05-2020
+
+### Changed
+
+- Add editor indent guide
+- Show editor hover widget
 - Fix constrast colors inside the terminal
 
 ## 0.2.0 - 01-05-2020

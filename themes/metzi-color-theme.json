@@ -77,7 +77,7 @@
     "editorHint.border": "#00000000",
     "editorHint.foreground": "#eaeaea88",
     "editorHoverWidget.background": "#202936",
-    "editorHoverWidget.border": "#00000000",
+    "editorHoverWidget.border": "#eaeaea44",
     "editorIndentGuide.activeBackground": "#44bbB722",
     "editorIndentGuide.background": "#00000000",
     "editorInfo.border": "#00000000",

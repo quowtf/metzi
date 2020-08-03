@@ -273,7 +273,7 @@
     "tab.unfocusedInactiveModifiedBorder": "#F4C946",
     "terminal.ansiBlack": "#eaeaea44",
     "terminal.ansiBlue": "#44bbB7",
-    "terminal.ansiBrightBlack": "#313131",
+    "terminal.ansiBrightBlack": "#eaeaea88",
     "terminal.ansiBrightBlue": "#44bbB7",
     "terminal.ansiBrightCyan": "#44bbB7",
     "terminal.ansiBrightGreen": "#88a239",

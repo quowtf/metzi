@@ -2,7 +2,11 @@
 
 All notable changes to the Metzi theme will be documented in this file.
 
-## Unreleased
+## 0.3.1 - 02-07-2020
+
+### Changed
+
+- Fix terminal ansi bright black color
 
 ## 0.3.0 - 18-05-2020
 
